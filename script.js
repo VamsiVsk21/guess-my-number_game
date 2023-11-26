@@ -1,19 +1,5 @@
 'use strict';
-/*
-//document.querySelector('.message');
-//console.log(document.querySelector('.message').textContent);
-document.querySelector('.message').textContent = "correct number";
-console.log(document.querySelector('.message').textContent);
 
-document.querySelector('.number').textContent = 13;
-document.querySelector('.score').textContent = 10;
-
-document.querySelector('.guess').value = 21;
-console.log(document.querySelector('.guess').value);
-*/
-
-// let inputValue = document.querySelector('.guess').value;
-// console.log(inputValue);
 
 
 
